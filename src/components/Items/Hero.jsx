@@ -20,18 +20,6 @@ const Hero = () => {
 
     <div>
 
-      <div class="relative w-full">
-        <img className='left-0 w-full h-44 lg:h-28 object-cover '
-          src="https://images.unsplash.com/photo-1510051640316-cee39563ddab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-          alt='/' />
-
-        <div className='absolute p-11 top-20 lg:top-14 left-1/4 -translate-x-1/2 -translate-y-1/2'>
-          <h3 class="lg:text-2xl  font-mono font-semibold text-green-200 animate-bounce ">Let’s play some ball!⚽</h3>
-        </div>
-      </div>
-
-
-
 
       <div className='bg-[#1d2636] grid sm:grid-cols-2 md:grid-cols-2 gap-8 py-[2rem] px-4 justify-between '>
 
